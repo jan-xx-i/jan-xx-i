@@ -1,14 +1,17 @@
 ## Hi, I'm janani 👋
 
 🎓 B.TECH - INFORMATION TECHNOLOGY Student
+
 💻 Aspiring Java Full Stack Developer
-📍 Banglore, India
+
+📍 Bangalore, India
 
 ---
 ## 🚀 About Me
 
 I am a Java Full Stack Developer with hands-on experience in building responsive web applications using Java, Spring Boot, and React.
 I enjoy solving real-world problems and continuously improving my technical and problem-solving skills.
+
 ---
 ## 🛠️ Skills
 
@@ -44,7 +47,7 @@ I enjoy solving real-world problems and continuously improving my technical and 
 ---
 ## 📫 Connect With Me
 
-🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/janani-elumalai)  
+🔗 LinkedIn: [linkedin.com/in/janani-elumalai](https://www.linkedin.com/in/janani-elumalai)  
 📧 Email: jananielumalai27@gmail.com  
 
 ---
